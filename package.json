@@ -1,0 +1,12 @@
+{
+  "name": "cody-test-app",
+  "version": "1.0.0",
+  "description": "Simple Express test app for Cody",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
